@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "146572564628",
+    "project_id": "retinolab",
+    "storage_bucket": "retinolab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146572564628:android:267de26b003b0d700fbc81",
+        "android_client_info": {
+          "package_name": "com.example.retinolab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "146572564628-k30b5fv94sl3hhf8s7l97ri6rvv4bd0v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA76paQ5ZH7eP_LLGQ2IZF0be9GxyT5VQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "146572564628-k30b5fv94sl3hhf8s7l97ri6rvv4bd0v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
